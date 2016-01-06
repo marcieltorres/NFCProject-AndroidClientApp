@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NFCProject - App Cliente</string>
+    <string name="action_newsubscriber">Nova Inscrição</string>
+    <string name="service_name">CardEmulation Sample</string>
+    <string name="card_title">Cartão de Acesso</string>
+    <string name="account_number">Account Number</string>
+    <string name="title_activity_card">Cartão de Acesso</string>
+    <string name="title_activity_subscriber">NOVA INSCRIÇÃO</string>
+</resources>
