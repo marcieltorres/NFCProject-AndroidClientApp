@@ -8,3 +8,6 @@ O projeto de pesquisa em questão tem como objetivo utilizar a tecnologia Near F
 O conteúdo desse repositório faz parte de um conjunto de três projetos que foram desenvolvidos para o Trabalho de Conclusão de Curso de Ciência da Computação (bacharelado com ênfase em desenvolvimento de software - Centro Universitário La Salle - Canoas, RS). 
  Veja o <a href="https://www.youtube.com/watch?v=86peaW43-_I" target="_blank">vídeo demonstrativo</a> do projeto.
  
+ <h3>Escopo do Projeto</h3>
+ <div style="text-align:center;"><img src="https://s3.amazonaws.com/nfcproject/images/Projeto-NFC-Marciel-Torres.jpg" border="0"></div>
+ 
